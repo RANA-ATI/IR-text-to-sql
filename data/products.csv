@@ -1,0 +1,101 @@
+row_id,order_id,order_date,product_category,customer_name
+1,3808,2023-07-01,Apparel,ElecHouse
+2,3808,2023-07-01,Apparel,ElecHouse
+3,3808,2023-07-01,Apparel,ElecHouse
+4,3808,2023-07-01,Apparel,ElecHouse
+5,487,2023-07-01,Cosmetics & Personal Care,MobileMax
+6,487,2023-07-01,Cosmetics & Personal Care,MobileMax
+7,487,2023-07-01,Cosmetics & Personal Care,MobileMax
+8,487,2023-07-01,Cosmetics & Personal Care,MobileMax
+9,487,2023-07-01,Cosmetics & Personal Care,MobileMax
+10,4080,2023-07-01,Groceries,MobileMax
+11,4080,2023-07-01,Groceries,MobileMax
+12,4080,2023-07-01,Groceries,MobileMax
+13,4080,2023-07-01,Groceries,MobileMax
+14,4080,2023-07-01,Groceries,MobileMax
+15,4868,2023-07-01,Apparel,AeroTechs
+16,4868,2023-07-01,Apparel,AeroTechs
+17,4868,2023-07-01,Apparel,AeroTechs
+18,4868,2023-07-01,Apparel,AeroTechs
+19,4868,2023-07-01,Apparel,AeroTechs
+20,4868,2023-07-01,Apparel,AeroTechs
+21,4868,2023-07-01,Apparel,AeroTechs
+22,4868,2023-07-01,Apparel,AeroTechs
+23,4868,2023-07-01,Apparel,AeroTechs
+24,4868,2023-07-01,Apparel,AeroTechs
+25,4868,2023-07-01,Apparel,AeroTechs
+26,4868,2023-07-01,Apparel,AeroTechs
+27,4868,2023-07-01,Apparel,AeroTechs
+28,4868,2023-07-01,Apparel,AeroTechs
+29,5251,2023-07-01,Groceries,MobileMax
+30,5251,2023-07-01,Groceries,MobileMax
+31,5251,2023-07-01,Groceries,MobileMax
+32,5251,2023-07-01,Groceries,MobileMax
+33,5251,2023-07-01,Groceries,MobileMax
+34,939,2023-07-01,Apparel,ElegantEyes
+35,939,2023-07-01,Apparel,ElegantEyes
+36,939,2023-07-01,Apparel,ElegantEyes
+37,939,2023-07-01,Apparel,ElegantEyes
+38,939,2023-07-01,Apparel,ElegantEyes
+39,939,2023-07-01,Apparel,ElegantEyes
+40,3584,2023-07-01,Toys & Games,Cust-040
+41,3584,2023-07-01,Toys & Games,Cust-040
+42,3584,2023-07-01,Toys & Games,Cust-040
+43,3584,2023-07-01,Toys & Games,Cust-040
+44,3584,2023-07-01,Toys & Games,Cust-040
+45,3584,2023-07-01,Toys & Games,Cust-040
+46,4042,2023-07-01,Apparel,GigaMarts
+47,4042,2023-07-01,Apparel,GigaMarts
+48,4042,2023-07-01,Apparel,GigaMarts
+49,4042,2023-07-01,Apparel,GigaMarts
+50,4042,2023-07-01,Apparel,GigaMarts
+51,4042,2023-07-01,Apparel,GigaMarts
+52,265,2023-07-01,Groceries,ShoeShack
+53,265,2023-07-01,Groceries,ShoeShack
+54,265,2023-07-01,Groceries,ShoeShack
+55,265,2023-07-01,Groceries,ShoeShack
+56,265,2023-07-01,Groceries,ShoeShack
+57,265,2023-07-01,Groceries,ShoeShack
+58,265,2023-07-01,Groceries,ShoeShack
+59,529,2023-07-01,Groceries,GourmetGal
+60,529,2023-07-01,Groceries,GourmetGal
+61,529,2023-07-01,Groceries,GourmetGal
+62,529,2023-07-01,Groceries,GourmetGal
+63,529,2023-07-01,Groceries,GourmetGal
+64,529,2023-07-01,Groceries,GourmetGal
+65,529,2023-07-01,Groceries,GourmetGal
+66,2241,2023-07-01,Toys & Games,TechTrend
+67,2241,2023-07-01,Toys & Games,TechTrend
+68,2241,2023-07-01,Toys & Games,TechTrend
+69,2241,2023-07-01,Toys & Games,TechTrend
+70,2241,2023-07-01,Toys & Games,TechTrend
+71,2241,2023-07-01,Toys & Games,TechTrend
+72,2241,2023-07-01,Toys & Games,TechTrend
+73,2241,2023-07-01,Toys & Games,TechTrend
+74,2241,2023-07-01,Toys & Games,TechTrend
+75,2241,2023-07-01,Toys & Games,TechTrend
+76,2241,2023-07-01,Toys & Games,TechTrend
+77,2241,2023-07-01,Toys & Games,TechTrend
+78,2241,2023-07-01,Toys & Games,TechTrend
+79,2241,2023-07-01,Toys & Games,TechTrend
+80,2241,2023-07-01,Toys & Games,TechTrend
+81,2241,2023-07-01,Toys & Games,TechTrend
+82,2241,2023-07-01,Toys & Games,TechTrend
+83,3003,2023-07-01,Groceries,GardenGlow
+84,3003,2023-07-01,Groceries,GardenGlow
+85,3003,2023-07-01,Groceries,GardenGlow
+86,3003,2023-07-01,Groceries,GardenGlow
+87,3003,2023-07-01,Groceries,GardenGlow
+88,3003,2023-07-01,Groceries,GardenGlow
+89,3003,2023-07-01,Groceries,GardenGlow
+90,267,2023-07-01,Electronics,ElegantEyes
+91,267,2023-07-01,Electronics,ElegantEyes
+92,267,2023-07-01,Electronics,ElegantEyes
+93,267,2023-07-01,Electronics,ElegantEyes
+94,267,2023-07-01,Electronics,ElegantEyes
+95,267,2023-07-01,Electronics,ElegantEyes
+96,267,2023-07-01,Electronics,ElegantEyes
+97,267,2023-07-01,Electronics,ElegantEyes
+98,376,2023-07-01,Groceries,ComfortCasa
+99,376,2023-07-01,Groceries,ComfortCasa
+100,376,2023-07-01,Groceries,ComfortCasa
